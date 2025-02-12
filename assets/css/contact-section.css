@@ -1,0 +1,20 @@
+#contat-section .row{
+    height: 100%;
+  }
+  
+  .contact-image-contain {
+    position: relative;
+  
+  }
+  .contact-image-contain .col-md-10{
+    position: absolute;
+    right: 0;
+  
+  }
+  @media screen and (max-width: 768px) {
+    .conact-form-input-container {
+       position: relative;
+        top: 308px;
+      }
+  }
+  
